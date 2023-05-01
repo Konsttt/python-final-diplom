@@ -1,2 +1,5 @@
-Django
+Django~=4.2
 pytz
+django-rest-passwordreset
+
+python-dotenv~=1.0.0
